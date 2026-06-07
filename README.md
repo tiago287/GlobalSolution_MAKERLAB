@@ -7,7 +7,7 @@
 * Enzo Luiz Goulart (RM99666)
 
 ## 2. Acesso ao Simulador
-* **Link do projeto no Tinkercad:** https://www.tinkercad.com/things/0fTvFYgKa5c-circuito-
+* **Link do projeto no Tinkercad:** https://www.tinkercad.com/things/0fTvFYgKa5c-circuito-?sharecode=JcFynPRMX6ad6zCHp0hT5wW2cAGRrcqp2Je0WQG4EcU
 *(O circuito está configurado como público para avaliação).*
 
 ## 3. Como operar o braço (Comandos)
